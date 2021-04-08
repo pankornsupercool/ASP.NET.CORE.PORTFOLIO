@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ASP.NET.CRUD.Models.Todolist>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>To Do List </h1>
+<p>
+    
+</p>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                Content
+            </th>
+            <th>
+                @*@Html.DisplayNameFor(model => model.Period)*@
+                Period
+            </th>
+            <th>
+                <a asp-action="AddOrEdit" class="btn btn-outline-success"><i class="fa fa-plus-square"></i>  Create New</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Period)
+            </td>
+            <td>
+                <a asp-action="AddOrEdit" asp-route-id="@item.TodolistId"><i class="fa fa-edit"></i></a> |
+                @*<a asp-action="Details" asp-route-id="@item.TodolistId">Details</a> |*@ 
+                <a asp-action="Delete" asp-route-id="@item.TodolistId" class="text-danger" onclick="return confirm('Are you sure to delete this record?')"><i class="fa fa-trash fa-lg"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
