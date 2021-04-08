@@ -14,7 +14,7 @@ a {
 
 .btn-primary {
   color: #fff;
-  background-color: #1b6ec2;
+  background-color: red;
   border-color: #1861ac;
 }
 
@@ -59,8 +59,8 @@ html {
 }
 
 body {
-  /* Margin bottom by footer height */
   margin-bottom: 60px;
+  background-color: beige;
 }
 .footer {
   position: absolute;
