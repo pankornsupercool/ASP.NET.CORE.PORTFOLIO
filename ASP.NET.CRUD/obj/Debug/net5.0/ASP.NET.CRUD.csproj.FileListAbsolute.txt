@@ -1,0 +1,617 @@
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\appsettings.Development.json
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\appsettings.json
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.exe
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.deps.json
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.runtimeconfig.json
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.runtimeconfig.dev.json
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ref\ASP.NET.CRUD.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.Views.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.Views.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.AssemblyInfoInputs.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.AssemblyInfo.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.csproj.CoreCompileInputs.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorAssemblyInfo.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorAssemblyInfo.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\staticwebassets\ASP.NET.CRUD.StaticWebAssets.Manifest.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\staticwebassets\ASP.NET.CRUD.StaticWebAssets.xml
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\scopedcss\bundle\ASP.NET.CRUD.styles.css
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.TagHelpers.input.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.TagHelpers.output.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorCoreGenerate.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorTargetAssemblyInfo.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorTargetAssemblyInfo.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.Views.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.csproj.CopyComplete
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ref\ASP.NET.CRUD.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.genruntimeconfig.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Humanizer.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Delete.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Details.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Edit.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Index.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\AddOrEdit.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\appsettings.Development.json
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\appsettings.json
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.exe
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.deps.json
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.runtimeconfig.json
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.runtimeconfig.dev.json
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ref\ASP.NET.CRUD.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.pdb
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.Views.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.Views.pdb
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Humanizer.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.csprojAssemblyReference.cache
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.AssemblyInfoInputs.cache
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.AssemblyInfo.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.csproj.CoreCompileInputs.cache
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorAssemblyInfo.cache
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorAssemblyInfo.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\staticwebassets\ASP.NET.CRUD.StaticWebAssets.Manifest.cache
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\staticwebassets\ASP.NET.CRUD.StaticWebAssets.xml
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\scopedcss\bundle\ASP.NET.CRUD.styles.css
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.TagHelpers.input.cache
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.TagHelpers.output.cache
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorCoreGenerate.cache
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\AddOrEdit.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Delete.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Details.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Edit.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Index.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorTargetAssemblyInfo.cache
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorTargetAssemblyInfo.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.Views.pdb
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.csproj.CopyComplete
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ref\ASP.NET.CRUD.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.pdb
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.genruntimeconfig.cache
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.StaticWebAssets.xml
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\ASP.NET.CORE.PORTFOLIO-main\ASP.NET.CRUD\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\appsettings.Development.json
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\appsettings.json
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.StaticWebAssets.xml
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.exe
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.deps.json
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.runtimeconfig.json
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.runtimeconfig.dev.json
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ref\ASP.NET.CRUD.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.Views.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ASP.NET.CRUD.Views.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Humanizer.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.csprojAssemblyReference.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.AssemblyInfoInputs.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.AssemblyInfo.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.csproj.CoreCompileInputs.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.MvcApplicationPartsAssemblyInfo.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorAssemblyInfo.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorAssemblyInfo.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\staticwebassets\ASP.NET.CRUD.StaticWebAssets.Manifest.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\staticwebassets\ASP.NET.CRUD.StaticWebAssets.xml
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\scopedcss\bundle\ASP.NET.CRUD.styles.css
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.TagHelpers.input.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.TagHelpers.output.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorCoreGenerate.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\AddOrEdit.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Delete.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Details.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Edit.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\Todolist\Index.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorTargetAssemblyInfo.cache
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.RazorTargetAssemblyInfo.cs
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.Views.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.csproj.CopyComplete
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ref\ASP.NET.CRUD.dll
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.pdb
+E:\GitHub Source\ASP.NET CORE IMP\ASP.NET.CORE.PORTFOLIO\ASP.NET.CRUD\obj\Debug\net5.0\ASP.NET.CRUD.genruntimeconfig.cache
